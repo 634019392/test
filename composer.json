@@ -1,6 +1,0 @@
-{
-    "name": "acme/blog",
-    "require": {
-        "634019392/test": "master"
-    }
-}
