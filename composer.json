@@ -1,11 +1,5 @@
 {
     "name": "634019392/test",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/634019392/test.git"
-        }
-    ],
     "require": {
         "634019392/test": "master"
     }
